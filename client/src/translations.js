@@ -65,7 +65,7 @@ export const translations = {
     documentation: "Documentação",
     integrated: "Integrada",
     planned: "Planejada",
-    localApiTitle: "API LOCAL DO DEVPULSE",
+    localApiTitle: "API LOCAL DO VULSCANIT",
     endpointsAvailable: "Endpoints disponíveis",
     responsibleUseTitle: "Uso responsável dos dados",
     responsibleUseDesc: "O VULScanIT não garante ausência de risco. Os resultados refletem somente o que as fontes consultadas conhecem e disponibilizam. Verifique os termos, licenças, atribuição e limites de cada fonte antes de redistribuir dados ou oferecer serviços comerciais.",

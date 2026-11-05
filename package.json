@@ -1,8 +1,29 @@
 {
-  "name": "devpulse",
+  "name": "vulscanit",
   "version": "1.0.0",
   "private": true,
-  "description": "Open Intelligence for Developers — vulnerability and package intelligence portal",
+  "description": "VULScanIT — Developer Security Intelligence Platform — dependency scanner, CVE lookup, CISA KEV monitoring, and security utilities.",
+  "keywords": [
+    "devsecops",
+    "vulnerability-scanner",
+    "cve",
+    "osv",
+    "security",
+    "react",
+    "express",
+    "cisa-kev",
+    "vulscanit"
+  ],
+  "author": "VULScanIT Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/vulscanit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/vulscanit/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/vulscanit#readme",
   "scripts": {
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "node --watch server/index.js",
